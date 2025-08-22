@@ -35,9 +35,3 @@ If you are working in Google Colab, install the dependencies:
 -   **FAST + ORB** combines the speed of FAST with the robustness of
     ORB.
 
-These results help to select the most suitable method for tasks such
-as:\
-- object tracking,\
-- video stabilization,\
-- image stitching,\
-- object recognition.
